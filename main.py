@@ -45,9 +45,9 @@ RAW_HEADERS = {  # 仅用于获取原始数据，防止接收到Accept-Language�
 }
 
 PROXY_URL_TEMPLATE = f"{os.getenv('PROXY_URL')}{{}}" if os.getenv("PROXY_URL") else None
-SOURCE_URL = os.getenv("SOURCE_URL", "https://blog.liushen.fun/flink_count.json")  # 默认本地文件
+SOURCE_URL = os.getenv("SOURCE_URL", "https://seln.cn/flink_count.json")  # 默认本地文件
 RESULT_FILE = "./result.json"
-AUTHOR_URL = os.getenv("AUTHOR_URL", "blog.liushen.fun")  # 作者URL，用于检测反链
+AUTHOR_URL = os.getenv("AUTHOR_URL", "seln.cn")  # 作者URL，用于检测反链
 api_request_queue = Queue()
 
 if PROXY_URL_TEMPLATE:
@@ -90,11 +90,11 @@ def is_url(path):
 def check_author_link_in_page(session, linkpage_url):
     """检测友链页面是否包含作者链接"""
     if not AUTHOR_URL:
-        return False
+        return true
     
     response, _ = request_url(session, linkpage_url, headers=RAW_HEADERS, desc="友链页面检测")
     if not response:
-        return False
+        return true
     
     # 处理作者URL，确保有协议号
     author_url = AUTHOR_URL
