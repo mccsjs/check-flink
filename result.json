@@ -1,0 +1,154 @@
+{
+    "timestamp": "2026-06-16 14:19:54",
+    "accessible_count": 0,
+    "inaccessible_count": 18,
+    "total_count": 18,
+    "has_author_link_count": 0,
+    "author_url": "seln.cn",
+    "link_status": [
+        {
+            "name": "    <meta name='robots' content='index",
+            "link": "follow'>",
+            "latency": -1,
+            "fail_count": 8,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "    <meta name='description' content='mccsjs",
+            "link": "ä¸ªäººä¸»é¡µ",
+            "latency": -1,
+            "fail_count": 8,
+            "has_author_link": false,
+            "linkpage": "mccsjsã®ä¸»é¡µ'>"
+        },
+        {
+            "name": "    <meta name='description' content='mccsjs",
+            "link": "ä¸ªäººä¸»é¡µ",
+            "latency": -1,
+            "fail_count": 8,
+            "has_author_link": false,
+            "linkpage": "mccsjsã®ä¸»é¡µ'>"
+        },
+        {
+            "name": "    <meta http-equiv=\"Cache-Control\" content=\"no-cache",
+            "link": " no-store",
+            "latency": -1,
+            "fail_count": 8,
+            "has_author_link": false,
+            "linkpage": "must-revalidate\" />"
+        },
+        {
+            "name": "    <meta name=\"viewport\" content=\"width=device-width",
+            "link": "initial-scale=1",
+            "latency": -1,
+            "fail_count": 8,
+            "has_author_link": false,
+            "linkpage": "maximum-scale=1"
+        },
+        {
+            "name": "            box-shadow: 0 10px 30px rgba(0",
+            "link": " 0",
+            "latency": -1,
+            "fail_count": 8,
+            "has_author_link": false,
+            "linkpage": "0"
+        },
+        {
+            "name": "            box-shadow: 0 10px 30px rgba(0",
+            "link": " 0",
+            "latency": -1,
+            "fail_count": 8,
+            "has_author_link": false,
+            "linkpage": "0"
+        },
+        {
+            "name": "        .contact-icon.wechat-icon",
+            "link": " .contact-icon[title=\"QQå¥½å\"] {",
+            "latency": -1,
+            "fail_count": 8,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "            border-bottom: 1px dotted rgba(255",
+            "link": "255",
+            "latency": -1,
+            "fail_count": 8,
+            "has_author_link": false,
+            "linkpage": "255"
+        },
+        {
+            "name": "            transition: border-color 0.2s",
+            "link": " color 0.2s;",
+            "latency": -1,
+            "fail_count": 8,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "            transition: transform 0.2s ease",
+            "link": " opacity 0.2s ease;",
+            "latency": -1,
+            "fail_count": 8,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "            box-shadow: 0 1px 2px rgba(0",
+            "link": "0",
+            "latency": -1,
+            "fail_count": 8,
+            "has_author_link": false,
+            "linkpage": "0"
+        },
+        {
+            "name": "                padding-bottom: max(1.5rem",
+            "link": " env(safe-area-inset-bottom));",
+            "latency": -1,
+            "fail_count": 8,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "            .footer-copyright",
+            "link": " .footer-beian {",
+            "latency": -1,
+            "fail_count": 8,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "        .wechat-qr .qr-label",
+            "link": " .qq-qr .qr-label {",
+            "latency": -1,
+            "fail_count": 8,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "        body",
+            "link": " #wrapper",
+            "latency": -1,
+            "fail_count": 8,
+            "has_author_link": false,
+            "linkpage": "#main {"
+        },
+        {
+            "name": "                    icon.setAttribute('href'",
+            "link": " 'javascript:void(0);');",
+            "latency": -1,
+            "fail_count": 8,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "                    icon.addEventListener('click'",
+            "link": " function(e) {",
+            "latency": -1,
+            "fail_count": 8,
+            "has_author_link": false,
+            "linkpage": ""
+        }
+    ]
+}
